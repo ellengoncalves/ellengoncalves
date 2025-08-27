@@ -1,6 +1,5 @@
 ### Olá, eu sou a Ellen Gonçalves 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ellengoncalvsz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-pinheiro-gon%C3%A7alves-b0b30b280/)
 
 ![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellengoncalves&show_icons=true&theme=dracula)
