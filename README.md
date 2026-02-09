@@ -1,13 +1,8 @@
 ### Olá, eu sou a Ellen Gonçalves 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ellengoncalves?cardType=octocat&theme=dark&fontFamily=Roboto%20Serif&preferLogin=true)](https://git.io/awesome-stats-card)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-pinheiro-gon%C3%A7alves-b0b30b280/)
-
-![Ellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellengoncalves&show_icons=true&theme=dracula)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellengoncalves&layout=compact)](https://github.com/ellengoncalves/github-readme-stats) -->
 
 #### Tecnologias
 <div style="display: inline_block">
@@ -18,18 +13,3 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
-
-<!--
-**ellengoncalves/ellengoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
