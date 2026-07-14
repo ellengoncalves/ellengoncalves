@@ -13,8 +13,6 @@ Ao longo da minha trajetória, venho desenvolvendo competências sólidas em dif
 
 Atualmente, atuo como Analista de Testes Júnior, realizando testes funcionais manuais em aplicativos mobile iOS e Android, com distribuição via TestFlight, e validando fluxos de pagamentos digitais como PIX, QR Code e câmbio BRL/ARS, cobrindo cenários de sucesso, falha e regras de negócio. Antes disso, atuei como Assistente de Desenvolvimento colaborando em interfaces front-end com TypeScript e React, e prestando suporte técnico e desenvolvendo consultas SQL e procedures em PL/SQL no banco Oracle.
 
-Meu objetivo é crescer como Analista de QA, aprofundando conhecimentos em Quality Assurance e Testes de Software, mantendo-me sempre aberta a novos desafios e aprendizados. Vamos conversar sobre oportunidades? 💌
-
 ![Tecnologias](https://skillicons.dev/icons?i=ts,js,java,python,kotlin,react,spring,html,css,postman,git,github&theme=dark)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ellenpingon@gmail.com)
